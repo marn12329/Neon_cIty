@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/as/Night Rider 87 - Digital Battleground [music].mp3.meta
+guid: 234ec2d7fedcde442bcc215b916abbf3
+========
+guid: 650b8df5ebadb0e459527e9af9b9f338
+>>>>>>>> parent of 17bb715 (Source):Assets/as/เสียง เดิน.mp3.meta
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
